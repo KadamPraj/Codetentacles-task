@@ -1,0 +1,163 @@
+body {
+    font-family: "Bakbak One", sans-serif;
+    background-color:   #040B11;
+}
+
+.navbar{
+    background-color: #040B11;
+}
+.navbar .btns .btn1{
+background-color:  #141B22;
+;
+}
+.navbar .btns .btn2{
+background-color:  #21E786;
+;
+}
+
+.hero{
+    height: 100vh;
+    background: linear-gradient(  #00000000, #06060680) , url(./images/mobile_comm\ 1.png)   no-repeat center  50% ;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.hero .btns .btn1{
+    background-color:  #21E786;
+}
+.hero .btns .btn2{
+    border: 1px solid #21E786;
+    color: white;
+}
+.hero p{
+    font-weight:400;
+    font-size: 16px;
+    line-height: 30px;
+}
+.how-it-works .cards{
+    background-color: #141B22;
+    width: 230px;
+height: 150px;
+
+
+}
+.how-it-works .ca {
+    display: flex;
+    justify-content: center;
+    /* align-items: end; */
+}
+.how-it-works span , h5{
+    color:#21E786 ;
+}
+.how-it-works h2 , p{
+    color: white;
+}
+.hot-collection .card{
+    background-color: #141B22;
+}
+.story .inner-col{
+    /* border: 1px solid white; */
+    width: 200px;
+height: 192px;
+position: relative;
+
+
+
+    background-color: #141B22;
+}
+.story h3{
+    color: #21E786;
+       font-size: 50px;
+}
+.story h5{
+    color: white;
+      position: absolute;
+   font-size: 18px;
+   top: 35px;
+   left: 20%;
+
+   
+}
+.story .inner-col p{
+    font-size: 12px;
+    font-weight: lighter;
+    margin-top: 40px;
+}
+.story span{
+    font-size: 50px;
+    text-shadow: 0px 0px 6px white;
+}
+.story .btn{
+    border: 1px solid #21E786;
+}
+.partner .alt{
+    background-color: #141B22;
+}
+.partner h2{
+    color: white;
+
+}
+.partner span{
+    color: #21E786;
+}
+
+
+
+
+
+/* header {
+    background: linear-gradient(to right, #000, #333);
+    color: #fff;
+    padding: 60px 0;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.how-it-works h2,
+.hot-collection h2,
+.story h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.how-it-works img,
+.hot-collection img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.hot-collection .card {
+    background: #222;
+    border: none;
+}
+
+.hot-collection .card img {
+    width: 100%;
+    height: auto;
+}
+
+.hot-collection .card-text {
+    color: #fff;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+.story h5 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.story p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+} */
